@@ -3,13 +3,22 @@ This Power BI project provides a comprehensive Performance Report designed to tr
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b>Performance Metrics Tracking – Monitor key KPIs such as revenue, efficiency, and success rates.</b> 
-- <b>Trend Analysis – Understand performance variations over different time periods.</b>
-- <b> Comparative Insights – Compare departments, teams, or individuals based on performance.</b>
-- <b>Interactive Visualizations – Use dynamic charts, tables, and maps for an intuitive understanding.</b>
-- <b>Predictive Analytics – Forecast future trends based on historical data.</b>
+- **Performance Metrics Tracking: KPI Monitoring**  
+This feature enables monitoring of key performance indicators (KPIs) such as revenue, efficiency, and success rates, providing a clear snapshot of organizational performance.
+
+- **Trend Analysis: Performance Variations Over Time**  
+Understand performance variations across different time periods through trend analysis, helping to identify patterns and seasonality in key metrics for strategic planning.
+
+- **Comparative Insights: Performance Benchmarking**  
+Compare performance across departments, teams, or individuals, offering insights into relative strengths and areas for improvement to drive targeted enhancements.
+
+- **Interactive Visualizations: Intuitive Data Exploration**  
+Dynamic charts, tables, and maps provide an intuitive understanding of data, allowing users to interact with visualizations and explore performance metrics effortlessly.
+
+- **Predictive Analytics: Future Trend Forecasting**  
+Leverage historical data to forecast future trends with predictive analytics, enabling proactive decision-making and preparation for upcoming opportunities or challenges.
 
 
 <h2>Tech Stack </h2>
