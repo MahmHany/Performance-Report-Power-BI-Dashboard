@@ -21,20 +21,19 @@ Dynamic charts, tables, and maps provide an intuitive understanding of data, all
 Leverage historical data to forecast future trends with predictive analytics, enabling proactive decision-making and preparation for upcoming opportunities or challenges.
 
 
-<h2>Tech Stack </h2>
+## Tech Stack
 
-- <b>Power BI – Data visualization and dashboard creation.</b>
-
-- <b>Power Query (M Language) – Data transformation and cleaning.</b>
-
-- <b>DAX (Data Analysis Expressions) – Custom measures and calculated fields.</b>
-  
-- <b>SQL – Data extraction, transformation, and loading (ETL) from relational databases.</b>
+- **Power BI** – Data visualization and dashboard creation.  
+- **Power Query (M Language)** – Data transformation and cleaning.  
+- **DAX (Data Analysis Expressions)** – Custom measures and calculated fields.  
+- **SQL** – Data extraction, transformation, and loading (ETL) from relational databases.
 
 
-<h2>Why This Project? </h2>
 
-- <b>Organizations require a structured approach to monitoring performance across various departments, identifying areas for improvement, and optimizing overall productivity. This project addresses these needs by providing real-time data insights to efficiently track key KPIs and trends, enabling enhanced decision-making by identifying strengths, weaknesses, and opportunities for growth. It facilitates performance benchmarking, allowing comparisons across teams, departments, or different time periods, ensuring a comprehensive evaluation of progress. Additionally, the project supports a data-driven strategy, helping businesses optimize resource allocation and refine their strategies based on actionable, data-backed insights.</b>
+## Why This Project?
+
+Organizations require a structured approach to monitoring performance across various departments, identifying areas for improvement, and optimizing overall productivity. This project addresses these needs by providing real-time data insights to efficiently track key KPIs and trends, enabling enhanced decision-making by identifying strengths, weaknesses, and opportunities for growth. It facilitates performance benchmarking, allowing comparisons across teams, departments, or different time periods, ensuring a comprehensive evaluation of progress. Additionally, the project supports a data-driven strategy, helping businesses optimize resource allocation and refine their strategies based on actionable, data-backed insights.
+
 
 <h2>Project walk-through:</h2>
 
